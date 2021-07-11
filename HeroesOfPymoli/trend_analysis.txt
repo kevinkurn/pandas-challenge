@@ -1,0 +1,9 @@
+3 observable trend
+Gender Analysis
+Based on the data, it appears that the Heroes of Pymoly game is mostly dominated by male players who makes up c. 84% of the population, followed by females (14%), and others(2%). As expected, these male players also makes up majority of the purchases made in the game, contributing a total revenue of nearly $2k
+
+Age Analysis
+Based on the purchases made, it appears that the Heroes of Pymoly game is a popular game for the age bracket between 15 to 24, es these groups made up 63% of all purchases made. Total purchase value shows an increasing trend up to age bracket 24, and it starts showing a declining trend afterwards, whereby the number of spending continues to decline as the player’s age increase. The increasing trend up to age group 24 may have been attributed to factors such as lack financial commitments of players in those age bracket (with age bracket 20-24 showing the highest spending value) or potentially generation gap whereby people who are older than 25 do not generally play video games. Further analysis needs to be run to understand this.
+
+Popular Item analysis
+The top 5 most popular items have been summarized in the code, noting that Final Critic and OathBreaker being the top 2 items being purchased (being 13 purchases and 12 purchases respectively), with a large purchase gap compared to the remaining 3 (remaining 3 items have been purchased between 8 to 9 times). Unfortunately, lack of understanding on the effect of these items prevents us from understanding why these items have such a high demand. It is possible that these items provide a competitive advantage in majority of the game's stage which led to its popularity, but further information on the games is required for further analysis
